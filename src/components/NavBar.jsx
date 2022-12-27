@@ -20,7 +20,7 @@ function NavBar() {
           <a href="#gallery">Gallery</a>
         </li>
         <li>
-          <a href="#deals">Deals</a>
+          <a href="#bookings">Bookings</a>
         </li>
         <li>
           <a href="#contact">Contact</a>
