@@ -33,7 +33,7 @@ function NavBar() {
         <FaInstagram className='mx-4' />
       </div>
       <div onClick={handleNav} className='sm:hidden z-10'>
-        <FaBars size={20} classNamemr-4 cursor-pointer/>
+        <FaBars size={20} className='mr-4 cursor-pointer'/>
       </div>
       <div onClick={handleNav} className={
         nav
