@@ -6,19 +6,19 @@ function Gallery() {
       <h2 className='text-center text-gray-700 p-4'>Gallery</h2>
       <div className='grid sm:grid-cols-5 gap-4'>
         <div className='sm:col-span-3 col-span-2 row-span-2'>
-          <img src="https://i.imgur.com/OrAYBC9.jpg" alt="/" />
+          <img className='w-full h-full object-cover' src="https://i.imgur.com/OrAYBC9.jpg" alt="/" />
         </div>
         <div>
-          <img src="https://i.imgur.com/OrAYBC9.jpg" alt="/" />
+          <img className='w-full h-full object-cover' src="https://i.imgur.com/OrAYBC9.jpg" alt="/" />
         </div>
         <div>
-          <img src="https://i.imgur.com/OrAYBC9.jpg" alt="/" />
+          <img className='w-full h-full object-cover' src="https://i.imgur.com/OrAYBC9.jpg" alt="/" />
         </div>
         <div>
-          <img src="https://i.imgur.com/OrAYBC9.jpg" alt="/" />
+          <img className='w-full h-full object-cover' src="https://i.imgur.com/OrAYBC9.jpg" alt="/" />
         </div>
         <div>
-          <img src="https://i.imgur.com/OrAYBC9.jpg" alt="/" />
+          <img className='w-full h-full object-cover' src="https://i.imgur.com/OrAYBC9.jpg" alt="/" />
         </div>
       </div>
     </div>
